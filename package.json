@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/pokedex.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "dillon",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dillonchr/pokedex/issues"
+  },
+  "homepage": "https://github.com/dillonchr/pokedex#readme",
+  "dependencies": {
+    "@dillonchr/domget": "^1.0.0"
+  }
+}
